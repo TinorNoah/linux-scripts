@@ -1,0 +1,5 @@
+=== Multi-Shell Setup Script Started at Tue Jul 29 17:53:08 IST 2025 ===
+[2025-07-29 17:53:08] INFO: Checking system environment and prerequisites...
+[2025-07-29 17:53:08] WARNING: This script is designed for Ubuntu/Debian. Your system: Darwin
+[2025-07-29 17:53:08] INFO: Continuing anyway, but some features may not work correctly.
+[2025-07-29 17:53:08] INFO: This script requires sudo privileges for package installation.
